@@ -1,5 +1,5 @@
-import './App.css'; // Ensure you have this file or remove it if unnecessary
-import MaterialComponents from './components.jsx'; // Import the MaterialComponents component
+import './App.css'; 
+import MaterialComponents from './components.jsx'; 
 
 function App() {
   return (
